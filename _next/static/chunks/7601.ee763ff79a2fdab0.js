@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7601],{47601:function(s,e,n){n.r(e),n.d(e,{default:function(){return o}});var t=n(47935),c=n(67294);function o(){let s=()=>{Promise.all([(0,t.loadExternalResource)("/js/aos.js","js"),(0,t.loadExternalResource)("/css/aos.css","css")]).then(()=>{window.AOS&&window.AOS.init()})};(0,c.useEffect)(()=>{s()},[])}}}]);
