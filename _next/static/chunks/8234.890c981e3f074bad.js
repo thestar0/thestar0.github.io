@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8234],{98234:function(e,n,o){o.r(n);var s=o(85893),b=o(67294),t=o(47935);n.default=()=>((0,b.useEffect)(()=>((0,t.loadExternalResource)("/js/ribbon.js","js").then(e=>{window.createRibbon&&window.createRibbon()}),()=>window.destroyRibbon&&window.destroyRibbon()),[]),(0,s.jsx)(s.Fragment,{}))}}]);
