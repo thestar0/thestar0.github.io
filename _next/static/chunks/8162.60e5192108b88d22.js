@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8162],{78162:function(a,e,r){r.r(e);var s=r(85893),u=r(67294),t=r(47935);e.default=()=>((0,u.useEffect)(()=>((0,t.loadExternalResource)("/js/sakura.js","js").then(a=>{window.createSakura&&window.createSakura({})}),()=>window.destroySakura&&window.destroySakura()),[]),(0,s.jsx)(s.Fragment,{}))}}]);
