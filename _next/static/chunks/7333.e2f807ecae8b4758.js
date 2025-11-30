@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7333],{57333:function(e,r,s){s.r(r);var n=s(85893),t=s(67294),a=s(47935);r.default=()=>((0,t.useEffect)(()=>{(0,a.loadExternalResource)("/js/starrySky.js","js").then(e=>{window.renderStarrySky&&window.renderStarrySky()})},[]),(0,n.jsx)(n.Fragment,{}))}}]);
