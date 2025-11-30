@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2664],{42664:function(e,s,t){t.r(s);var n=t(85893),r=t(67294),w=t(47935);s.default=()=>((0,r.useEffect)(()=>((0,w.loadExternalResource)("/js/nest.js","js").then(e=>{window.createNest&&window.createNest()}),()=>window.destroyNest&&window.destroyNest()),[]),(0,n.jsx)(n.Fragment,{}))}}]);
