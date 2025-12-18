@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6778],{26778:function(e,t,n){n.r(t),n.d(t,{Pdf:function(){return o}});var c=n(85893);function o(e){let{file:t}=e,n="https://docs.google.com/viewer?embedded=true&url="+encodeURIComponent(t);return(0,c.jsx)("embed",{src:n,type:"application/pdf",width:"100%",height:"100%"})}}}]);

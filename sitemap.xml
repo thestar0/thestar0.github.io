@@ -6,27 +6,27 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
     <loc>https://thestar0.github.io</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
     <loc>https://thestar0.github.io/archive</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
     <loc>https://thestar0.github.io/category</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
     <loc>https://thestar0.github.io/tag</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
-    <loc>https://thestar0.github.io/article/2025/11/15/274b67db-fc9a-80ee-96bc-cd2f7ebbb79b</loc>
-    <lastmod>2025-11-15</lastmod>
+    <loc>https://thestar0.github.io/article/2025/12/16/2cbb67db-fc9a-80a5-9e34-d2ff9dee6f73</loc>
+    <lastmod>2025-12-16</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
@@ -202,6 +202,11 @@
     <url>
     <loc>https://thestar0.github.io/article/2024/11/11/13bb67db-fc9a-808a-bd65-d9bbd34c836d</loc>
     <lastmod>2024-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>https://thestar0.github.io/article/2025/12/18/2ccb67db-fc9a-8066-a6d2-ff00a136aa94</loc>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>daily</changefreq>
     </url>
     
