@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: thestar0.github.io/note
+  baseUrl: thestar0.github.io
   ignorePatterns:
     - private
     - templates
