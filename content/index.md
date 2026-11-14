@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: thestar的博客
+description: 记录所思
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+记录所思。
+
+这里记录红队攻防、逆向工程、Java 安全与代码审计过程中的思考与实践。

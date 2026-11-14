@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: thestar的博客
+  pageTitleSuffix: " | 记录所思"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -218,15 +218,14 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/thestar0
     layout:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
     enabled: true
     options:
-      title: Recent Notes
+      title: 最近笔记
       limit: 5
       linkToMore: false
       showTags: true
