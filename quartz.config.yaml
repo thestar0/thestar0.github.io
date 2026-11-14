@@ -170,6 +170,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+      condition: not-index
   - source: "@quartz-community/tag-list"
     enabled: false
     layout:
@@ -264,6 +265,7 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+      condition: not-index
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
