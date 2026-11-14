@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: thestar的博客
-  pageTitleSuffix: " | 记录所思"
+  pageTitle: 安全沉思录
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
