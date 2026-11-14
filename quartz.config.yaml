@@ -109,7 +109,12 @@ plugins:
     options: {}
     order: 45
   - source: "@quartz-community/encrypted-pages"
-    enabled: false
+    enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: true
+    order: 900
   - source: "@quartz-community/stacked-pages"
     enabled: false
     layout:
@@ -194,7 +199,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: true
+    enabled: false
     options:
       provider: giscus
       options:
